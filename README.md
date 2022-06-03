@@ -3,7 +3,7 @@
 - 💻 Hoje trabalho com Análise de Sistemas
 - 🌱 Estudando Desenvolvimento Web - FrontEnd
 - 📩 Contate-me pelo e-mail: annylaisd.brito@gmail.com
-- 🤗 Pronuns: ela/dela
+- 🤗 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/annylais">
